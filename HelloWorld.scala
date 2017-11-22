@@ -1,5 +1,5 @@
 package sparkscala
 
 object HelloWorld {
-  println("Hello World!") 
+  println("Hello World") 
 }
